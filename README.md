@@ -6,23 +6,19 @@ The server will handle several use cases:
     We can have the user punch in their post code 
     We provide them details of their Member of Parliament and their contact details
     A web-initiated call to connect a user's phone number to their MPs office
-    ```
-    ```
+  
     We have the user punch in their post code
     We provide them details of their Member of Parliamnent and their contact details
     A web initated email to send from our server to their MP using their contact details
-    ```
+    
     We have the user punch in their post code
     We provide them with details of their MP and their contact details
     A tweet to their MP using their contact details
-    ```
-    ```
+
     A web initiated call to connect a user's phone number to a randomly chosen office of a Lord.
-    ```
-    ```
+
     A web initiated email to a randomly chosen office of a Lord.
-    ```
-    ```
+    
     A tweet to a randomly chosen Lord.
     ```
 ## Progress so far
