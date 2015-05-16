@@ -23,7 +23,8 @@ The server will handle several use cases:
 
 Pulled List of MPs and Lords (to date as of the most recent general election) in JSON from the theyworkforyou API
 JSON structure
-``` {
+```
+{
   "member_id" : "40710",
   "person_id" : "11771",
   "name" : "Justine Greening",
@@ -34,6 +35,7 @@ JSON structure
   "twitter" : ""
 },
 ```
+
 Currently crowdsourcing the contact details for all MPs and Lords
 When complete, intergration with existing codebase will follow.
 
