@@ -1,5 +1,5 @@
 # contactparliament
-a server that makes it easy for citizens to contact their parliamentarians using VOIP, email and twitter. [This is based on EFF's call congress tool(https://github.com/EFForg/call-congress)].
+a server that makes it easy for citizens to contact their parliamentarians using VOIP, email and twitter. [This is based on EFF's call congress tool](https://github.com/EFForg/call-congress).
 
 The server will handle several use cases:
 ```
@@ -43,7 +43,7 @@ JSON structure
 Currently crowdsourcing the contact details for all MPs and Lords.
 
 ## Guidance for Crowdsourcing Contacts
-* Use [Parliamentary Sources(http://www.parliament.uk/mps-lords-and-offices/)] to collate data.
+* Use [Parliamentary Sources](http://www.parliament.uk/mps-lords-and-offices/) to collate data.
 * Primarily use parliamentary contacts over constituency contacts. If possible, secondary constituency contacts will follow.
 * Only use publicly available information.
 
