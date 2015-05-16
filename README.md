@@ -8,8 +8,8 @@ The server will handle several use cases:
     A web-initiated call to connect a user's phone number to their MPs office
 
     We have the user punch in their post code
-    We provide them details of their Member of Parliamnent and their contact details
-    A web initated email to send from our server to their MP using their contact details
+    We provide them details of their Member of Parliament and their contact details
+    A web initiated email to send from our server to their MP using their contact details
 
     We have the user punch in their post code
     We provide them with details of their MP and their contact details
@@ -49,4 +49,4 @@ Currently crowdsourcing the contact details for all MPs and Lords.
 * If MPs do not have a Twitter account, add their party account, for example @UKLabour for the Labour Party
 
 
-When complete, intergration with existing codebase will follow.
+When complete, integration with existing codebase will follow.
