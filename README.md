@@ -46,6 +46,7 @@ Currently crowdsourcing the contact details for all MPs and Lords.
 * Use [Parliamentary Sources](http://www.parliament.uk/mps-lords-and-offices/) to collate data.
 * Primarily use parliamentary contacts over constituency contacts. If possible, secondary constituency contacts will follow.
 * Only use publicly available information.
+* If MPs do not have a Twitter account, add their party account, for example @UKLabour for the Labour Party
 
 
 When complete, intergration with existing codebase will follow.
