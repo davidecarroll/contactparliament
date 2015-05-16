@@ -2,7 +2,7 @@
 a server that makes it easy for citizens to contact their parliamentarians using VOIP, email and twitter. This is based on EFF's call congress tool. 
 
 The server will handle several use cases:
-    ```
+```
     We can have the user punch in their post code 
     We provide them details of their Member of Parliament and their contact details
     A web-initiated call to connect a user's phone number to their MPs office
@@ -20,7 +20,7 @@ The server will handle several use cases:
     A web initiated email to a randomly chosen office of a Lord.
     
     A tweet to a randomly chosen Lord.
-    
+```
 ## Progress so far
 
 Pulled List of MPs and Lords (to date as of the most recent general election) in JSON from the theyworkforyou API
